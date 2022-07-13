@@ -9,6 +9,9 @@ Adding a line for stash
 
 Another example of text
 
+##time-tracker
+JAVA (Maven) application for tracking time on the job.
+
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training.
